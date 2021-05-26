@@ -1,0 +1,8 @@
+*.tar.xz
+content/**
+*.img
+.vscode
+f_mass_storage.c
+sample_victim
+*.txt
+*.xml
